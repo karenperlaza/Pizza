@@ -1,1 +1,1 @@
-1. Ejecutar archivo pagina1
+1. Ejecutar archivo index
